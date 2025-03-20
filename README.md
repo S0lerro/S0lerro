@@ -1,6 +1,6 @@
 # Hi! I am Sava
 
-## Python Software Developer, 
+## Python Software Developer 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/s0lerro)
 
