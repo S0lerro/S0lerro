@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi! I am Sava
 
-<!--
-**S0lerro/S0lerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Software Developer, 
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/s0lerro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About Me
+I make a software for PC in Python. I made much Telegram-bots and parsers and wori. Also i be able to work with big data. Learned in online Innopolis University, courses of programming. At the moment im making a project for "SBER" company.
+
+
+### 🛠️ Technologies & Tools
+
+![pip](https://img.shields.io/badge/-pip-informational?style=flat&logo=pip&logoColor=white) ![git](https://img.shields.io/badge/-git-informational?style=flat&logo=git&logoColor=white) ![sqlite](https://img.shields.io/badge/-sqlite-informational?style=flat&logo=sqlite&logoColor=white) ![python](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white) ![sql](https://img.shields.io/badge/-sql-informational?style=flat&logo=sql&logoColor=white) ![googlecloud ](https://img.shields.io/badge/-googlecloud -informational?style=flat&logo=googlecloud &logoColor=white) ![django](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white) ![selenium](https://img.shields.io/badge/-selenium-informational?style=flat&logo=selenium&logoColor=white) ![github](https://img.shields.io/badge/-github-informational?style=flat&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/-npm-informational?style=flat&logo=npm&logoColor=white)
+
+---
+
+*Generated with GitHub README Generator* 🚀
