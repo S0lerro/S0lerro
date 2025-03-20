@@ -1,3 +1,4 @@
+![Uploading python-powered.gif…]()
 # Hi! I am Sava
 
 ## Python Software Developer 
@@ -6,6 +7,7 @@
 
 ### 👤 About Me
 I make a software for PC in Python. I made much Telegram-bots and parsers and wori. Also i be able to work with big data. Learned in online Innopolis University, courses of programming. At the moment im making a project for "SBER" company.
+
 
 
 ### 🛠️ Technologies & Tools
