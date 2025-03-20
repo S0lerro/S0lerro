@@ -1,6 +1,3 @@
-
-![Uploading tenor (1).gif…]()
-
 # Hi! I am Sava
 
 ## Python Software Developer 
@@ -8,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/s0lerro)
 
 ### 👤 About Me
-I make a software for PC in Python. I made much Telegram-bots and parsers and wori. Also i be able to work with big data. Learned in online Innopolis University, courses of programming. At the moment im making a project for "SBER" company.
+I have been making a PC software in Python. I made much Telegram-bots and parsers and wori. Also i be able to work with big data. Learned in online Innopolis University, courses of programming. At the moment im making a project for "SBER" company.
 
 
 
