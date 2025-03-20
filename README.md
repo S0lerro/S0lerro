@@ -1,4 +1,5 @@
-<div class="tenor-gif-embed" data-postid="16957606" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/python-powered-logo-programming-language-gif-16957606"></a><a href="https://tenor.com/search/python-gifs"></a></div>
+
+![Uploading tenor (1).gif…]()
 
 # Hi! I am Sava
 
