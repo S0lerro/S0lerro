@@ -1,4 +1,4 @@
-![wink-anime](https://github.com/user-attachments/assets/db082508-4afc-4aec-b694-ad0a798e2443)
+![download](https://github.com/user-attachments/assets/a1899272-99a3-43f7-b212-40931271619c)
 
 
 ## Hi! I am Sava
